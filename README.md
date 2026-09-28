@@ -18,7 +18,7 @@
     <tr>
         <td> Scrum Master </td>
         <td> Breno de Siqueira Carlos </td>
-        <td> <a href="https://github.com/eulauragabriel"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=6D39A8'/> </a> </td>
+        <td> <a href="https://github.com/breesiqueiramkt"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=6D39A8'/> </a> </td>
     </tr>
   <tr>
           <td> Dev Team </td>
