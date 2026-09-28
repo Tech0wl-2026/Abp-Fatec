@@ -11,14 +11,14 @@
         <th> Git Hub </th>
     </tr>
     <tr>
+        <td> Product Owner </td>
+        <td> Abdi dos Santos Silva </td>
+        <td> <a href="https://github.com/fecosta290"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=6D39A8'/> </a> </td>
+    </tr>
+    <tr>
         <td> Scrum Master </td>
         <td> Breno de Siqueira Carlos </td>
         <td> <a href="https://github.com/eulauragabriel"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=6D39A8'/> </a> </td>
-    </tr>
-    <tr>
-        <td> Dev Team </td>
-        <td> Abdi dos Santos Silva </td>
-        <td> <a href="https://github.com/fecosta290"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=6D39A8'/> </a> </td>
     </tr>
   <tr>
           <td> Dev Team </td>
