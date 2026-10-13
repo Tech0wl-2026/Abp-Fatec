@@ -3,7 +3,7 @@
 # Escopo-Project
 
 <div align="center">
-<img width="200" height="200" alt="sprint-master-logo" src="https://github.com/user-attachments/assets/" />
+<img width="200" height="200" alt="sprint-master-logo" src="Logo ABP.png" />
 
 
 <br>
