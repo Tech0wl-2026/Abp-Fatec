@@ -6,11 +6,19 @@
 <img width="200" height="200" alt="sprint-master-logo" src="https://github.com/user-attachments/assets/" />
 
 
+<br>
+ 
+## 📌 Sobre o Projeto
+ 
+<p  style="text-align: justify;">
+<b>Aprendisagem Ágil</b> é uma plataforma web desenvolvida pela equipe <b>Tech0wl</b> com a missão de facilitar o aprendizado de metodologias ágeis. O portal oferece atividades interativas para testar e certificar seu conhecimento. Ao concluir os quizzes com sucesso, o estudante é recompensado com um certificado de conclusão.
+</p>
+ 
+<br>
 
 
 
-
-
+[site institucional](https://github.com/user-attachments/assets/)
 
 
 
