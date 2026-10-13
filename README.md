@@ -11,7 +11,7 @@
 ## 📌 Sobre o Projeto
  
 <p  style="text-align: justify;">
-<b>Aprendisagem Ágil</b> é uma plataforma web desenvolvida pela equipe <b>Tech0wl</b> com a missão de facilitar o aprendizado de metodologias ágeis. O portal oferece atividades interativas para testar e certificar seu conhecimento. Ao concluir os quizzes com sucesso, o estudante é recompensado com um certificado de conclusão.
+<b>Nossa plataforma web de ensino foi desenvolvida para promover o desenvolvimento acadêmico e profissional por meio de conteúdos abrangentes em diversas áreas do conhecimento. Os usuários têm acesso a materiais didáticos para estudo e, posteriormente, podem realizar uma avaliação para validar os conhecimentos adquiridos. Após a conclusão da prova, é emitido um certificado, reconhecendo oficialmente a participação e o aproveitamento obtido.
 </p>
  
 <br>
