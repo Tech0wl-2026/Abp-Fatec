@@ -2,9 +2,8 @@
 
 # Escopo-Project
 
-<div align itens: center>
-    <img src=>
-</div>
+<div align="center">
+<img width="200" height="200" alt="sprint-master-logo" src="https://github.com/user-attachments/assets/" />
 
 
 
